@@ -1,4 +1,4 @@
-E![logo](https://github.com/zion51/zion51/blob/main/GitHubBanner.png)
+![logo](https://github.com/zion51/zion51/blob/main/GitHubBanner.png)
 
 <h1 align="center">Hi 👋, I'm Md Muktadirul ISlam Zion</h1>
 <h3 align="center">A passionate Android App Developer from Bangladesh</h3>
